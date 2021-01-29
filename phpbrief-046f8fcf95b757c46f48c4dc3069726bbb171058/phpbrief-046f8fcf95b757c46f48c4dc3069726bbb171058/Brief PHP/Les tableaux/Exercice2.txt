@@ -1,0 +1,6 @@
+Avec le tableau de l'exercice 1, afficher la valeur de la troisième ligne de ce tableau.
+
+<?php
+$mois=["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décember"];
+echo $mois[3];
+?>

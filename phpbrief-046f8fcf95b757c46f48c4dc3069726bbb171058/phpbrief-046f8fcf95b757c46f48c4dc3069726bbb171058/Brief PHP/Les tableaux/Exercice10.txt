@@ -1,0 +1,9 @@
+Avec le tableau de l'exercice 5, afficher toutes les valeurs de ce tableau ainsi que les clés associés. 
+Cela pourra être, par exemple, de la forme : "Le département" + nom_departement + "a le numéro" + num_departement
+
+<?php
+$nom= "pionner";
+$mois=array("1"=>"halim","2"=>"mousa","3"=>"chafiq","4"=>"nourdin","5"=>"aimad","6"=>"khalil");
+foreach($mois as &$month){
+echo "$month ","in : group ","$nom "," number " ,"$num" .".<br>";}
+?>

@@ -1,0 +1,9 @@
+Avec le tableau de l'exercice 5, afficher toutes les valeurs de ce tableau.
+
+
+<?php
+$mois= array("1"=>"halim","2"=>"mousa","3"=>"chafiq","4"=>"nourdin","5"=>"aimad");
+foreach($mois as &$month){
+echo $month ."<br>";
+}
+?>

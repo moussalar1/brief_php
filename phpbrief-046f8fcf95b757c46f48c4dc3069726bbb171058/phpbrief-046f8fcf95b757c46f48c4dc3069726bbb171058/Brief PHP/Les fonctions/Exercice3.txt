@@ -1,0 +1,6 @@
+<?php
+function sayHello($name,$age){
+return "hello".$name."your age is ".$age;
+}
+echo sayHello("Khalil","19");
+?>

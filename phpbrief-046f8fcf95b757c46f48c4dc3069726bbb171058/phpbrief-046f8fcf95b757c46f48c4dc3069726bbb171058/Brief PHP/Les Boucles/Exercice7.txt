@@ -1,0 +1,8 @@
+-En allant de 1 à 100 avec un pas de 15, afficher le message On tient le bon bout...:
+<?php
+$var;
+for($var=1;$var<=100;$var=$var+15){
+echo $var ."on tien le bon bout" ."<br>";
+}
+
+?>

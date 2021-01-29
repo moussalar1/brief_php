@@ -1,0 +1,7 @@
+Avec le tableau de l'exercice 5, ajouter la ligne correspondant au département de la ville de Reims.
+
+
+<?php
+$mois=array("1"=>"halim","2"=>"mousa","3"=>"chafiq","4"=>"nourdin","59"=>"aimad", "8"=>"Reims");
+echo $mois[8];
+?>

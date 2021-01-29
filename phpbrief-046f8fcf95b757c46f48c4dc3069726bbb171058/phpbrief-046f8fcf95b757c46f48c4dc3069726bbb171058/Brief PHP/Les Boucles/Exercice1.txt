@@ -1,0 +1,9 @@
+Créer une variable et l'initialiser à 0. Tant que cette variable n'atteint pas 10 :
+=> l'afficher => incrémenter de 1:
+
+
+<?php
+
+for ($i=0; $i<=10; $i++){
+       echo $i ."<br>";
+}

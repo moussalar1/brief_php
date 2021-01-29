@@ -1,0 +1,6 @@
+ Créer un tableau associatif avec comme index le numéro des départements des Hauts de France et en valeur leur nom.
+
+<?php
+$mois= array("1"=>"halim","2"=>"mousa","3"=>"chafiq","4"=>"nourdin","5"=>"aimad");
+echo $mois[5];
+?>

@@ -1,0 +1,16 @@
+<?php
+function num($a,$b){
+if($a>$b){
+$num="premier nomber est plus grand ";
+}
+else if($a<$b){
+$num="premier nomber est plus petit";
+}
+else{
+$num=" Les deux nombres sont identiques";
+}
+return $num;
+
+}
+echo num(10,6);
+?>

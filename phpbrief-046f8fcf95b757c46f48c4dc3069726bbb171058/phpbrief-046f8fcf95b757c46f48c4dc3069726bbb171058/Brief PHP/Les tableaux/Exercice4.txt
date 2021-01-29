@@ -1,0 +1,8 @@
+Avec le tableau de l'exercice 1, modifier le mois de aout pour lui ajouter l'accent manquant.
+
+<?php
+$mois= array("Janvier" , "Février","mars","avril" ,"Mai","Juin","Juillet","Août","septembre","october","november","december");
+
+$mois[7]= "september";
+echo $mois [7];
+?>

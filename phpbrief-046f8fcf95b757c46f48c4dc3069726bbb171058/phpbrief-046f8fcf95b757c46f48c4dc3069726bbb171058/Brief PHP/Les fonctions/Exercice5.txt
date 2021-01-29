@@ -1,0 +1,7 @@
+<?php
+function myfun($age ,$nom){
+
+echo "bounjour votre age et" .$age."et votre nom et ".$nom;
+}
+myfun(19,"Khalil");
+?>

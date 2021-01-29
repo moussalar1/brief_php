@@ -1,0 +1,6 @@
+<?php
+function myfun ($a,$b,$c){
+echo "la some et ", $a + $b + $c;
+}
+myfun (10,20,30);
+?>

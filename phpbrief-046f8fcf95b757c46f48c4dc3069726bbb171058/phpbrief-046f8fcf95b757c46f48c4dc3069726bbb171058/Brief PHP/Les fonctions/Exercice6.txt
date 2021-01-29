@@ -1,0 +1,8 @@
+<?php
+   function myfun ($nom, $prenom, $age){
+      echo "bonjour" ." " .$nom  ." " .$prenom  ."tu as " ." " .$age ." " ."ans";
+   }
+
+   myfun("Grouz", "Khalil", 19);
+   }
+?>

@@ -1,0 +1,7 @@
+-Créer une variable nom et l'initialiser avec la valeur de votre choix. Afficher son contenu:
+<?php
+$name="khalil";
+$nbr=19;
+echo $name;
+echo $nbr;
+?>

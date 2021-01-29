@@ -1,0 +1,7 @@
+-Faire une fonction qui retourne true:
+<?php
+function choice () {
+return "true";
+}
+echo choice();
+?>

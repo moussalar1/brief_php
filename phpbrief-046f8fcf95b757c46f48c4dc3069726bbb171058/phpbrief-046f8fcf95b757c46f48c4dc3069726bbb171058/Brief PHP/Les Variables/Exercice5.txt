@@ -1,0 +1,9 @@
+-Créer une variable de type int. L'initialiser avec rien. Afficher sa valeur. Donner une valeur à cette variable et l'afficher:
+<?php
+$int= ;
+echo $int;
+// opeartion sa marche pas car nbr de type int et vide.
+$int=25;
+echo $int;
+//opeartion sa marche
+?>

@@ -1,0 +1,15 @@
+-Créer une variable de type string, une variable de type int, une variable de type float, une variable de type booléan et les initialiser avec une valeur de votre choix. Les afficher:
+<?php
+$nom="grouz";
+$prenom="khalil";
+$age= 25;
+$note= 15.49;
+$bool=true;
+
+echo $nom;
+echo $prenom;
+echo $age;
+echo $note ;
+echo $bool;
+
+?>

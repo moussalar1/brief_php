@@ -1,0 +1,9 @@
+-En allant de 20 à 0 avec un pas de 1, afficher le message C'est presque bon...:
+<?php
+$var;
+
+for($var=20; $var>=0;$var--){
+echo $var . " c'est presque bon"."<br>" ;
+}
+
+?>

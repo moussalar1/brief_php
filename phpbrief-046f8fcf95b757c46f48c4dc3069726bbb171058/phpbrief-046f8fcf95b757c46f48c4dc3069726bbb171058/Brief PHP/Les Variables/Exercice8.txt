@@ -1,0 +1,23 @@
+-Créer 3 variables. Dans la première mettre le résultat de l'opération 3 + 4:
+<?php
+$a=3;
+$b=4;
+$d= $a + $b;
+echo $d;
+?>
+- Dans la deuxième mettre le résultat de l'opération 5 * 20:
+<?php
+$a=5;
+$b=20;
+$d= $a * $b;
+echo $d;
+?>
+-Dans la troisième mettre le résultat de l'opération 45 / 5:
+<?php
+$a=45;
+$b=5;
+$d= $a / $b;
+echo $d;
+?>
+
+

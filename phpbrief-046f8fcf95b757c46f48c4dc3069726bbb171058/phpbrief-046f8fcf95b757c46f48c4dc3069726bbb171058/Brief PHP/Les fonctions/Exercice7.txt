@@ -1,0 +1,20 @@
+<?php
+
+function myfunction($sexe, $age)
+{
+if ($age >= 19) {
+if ($sexe == "homme") {
+echo "vous etes un homme et vous etes adult";
+} else {
+echo "vous etes une femme et vous etes adult";
+}
+} else {
+if ($sexe == "femme") {
+echo "vous etes une femme et vous etes mineur";
+} else {
+echo "vous etes un homme et vous etes mineur";
+}
+}
+}
+myfunction("femme", 20);
+?>
